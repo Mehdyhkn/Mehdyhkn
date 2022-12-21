@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi 👋, I'm Mehdy HOUNKONNOU</h1>
 <h3 align="center">A :fr: Data scientist :computer: in Bordeaux :wine_glass:</h3>
-<h3 align="center">Working :man_technologist: at <a href="https://www.sophiagenetics.com/">SOPHiA GENETICS</a></h3>
+
 
 
 <p align="left"> 
